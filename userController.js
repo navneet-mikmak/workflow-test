@@ -39,7 +39,7 @@ module.exports = {
                 })
             } else {
                 res.status(200).json({
-                    message: "Welcome to Application ( main )"
+                    message: "Welcome to Application ( Your are in main branch )"
                 })
             }
 
